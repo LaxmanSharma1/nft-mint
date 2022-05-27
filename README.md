@@ -1,4 +1,4 @@
-#NFT-Mint
+NFT-Mint
 
 This consist of a smart contract which create an svg nft based on three random words and the client application which have a button to connect to metamask wallet and another button to mint an nft created by smart contract. 	
 
