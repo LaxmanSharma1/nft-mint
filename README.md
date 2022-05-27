@@ -1,9 +1,14 @@
-# Basic Sample Hardhat Project
+#NFT-Mint
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This consist of a smart contract which create an svg nft based on three random words and the client application which have a button to connect to metamask wallet and another button to mint an nft created by smart contract. 	
 
-Try running some of the following tasks:
+## How to start front-end application
+```shell
+npm install 
+npm start
+```
 
+## Commonly used hardhat commands
 ```shell
 npx hardhat accounts
 npx hardhat compile
